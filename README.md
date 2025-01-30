@@ -1,4 +1,3 @@
-# Misinformation-detection-in-TikTok
 # Detecting Misinformation in TikTok Videos Using Machine Learning
 
 ## 📌 Project Overview
